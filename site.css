@@ -1,0 +1,13 @@
+#myCarousel { overflow: hidden;  }
+#myCarousel img { height: 300px; }
+
+table
+{
+width:90%;
+}
+th
+{
+height:50px;
+}
+
+body {background-image:url('bootstrap/images/bg.jpg');}
